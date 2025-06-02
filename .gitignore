@@ -1,0 +1,12 @@
+.DS_Store
+
+# Latex
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.log
+*.Identifier
+*.blg
+.DS_Store

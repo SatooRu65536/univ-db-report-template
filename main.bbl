@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{latex-devcontainer}
+{多田 隆人}\：{Latex 日本語用開発コンテナー}，https://github.com/SatooRu65536/univ-db-report-template (2025).
+
+\bibitem{docker-ubuntu-texlive-ja}
+{Futa HIRAKOBA}: {docker-ubuntu-texlive-ja}, https://github.com/korosuke613/docker-ubuntu-texlive-ja (2025).
+
+\bibitem{kajilab-latex-devcontainer}
+{梶研究室}\：{梶研究室 論文用開発コンテナー}，https://github.com/kajiLabTeam/academic-paper (2025).
+
+\bibitem{kajilab-papers}
+{多田 隆人}\：{梶研究室での論文たち}，https://github.com/SatooRu65536/kjlb-papers (2025).
+
+\end{thebibliography}
