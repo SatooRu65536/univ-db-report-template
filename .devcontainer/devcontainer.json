@@ -10,11 +10,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "formulahendry.terminal",
         "james-yu.latex-workshop",
-        "myriad-dreamin.tinymist",
-        "OrangeX4.vscode-typst-sync",
-        "3w36zj6.textlint",
         "ms-azuretools.vscode-docker"
       ]
     }
